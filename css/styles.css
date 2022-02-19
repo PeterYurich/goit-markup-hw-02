@@ -48,12 +48,14 @@ a {
   color: var(--grey-text);
   font-size: var(--size-heder);
   line-height: var(--height-heder);
+  font-weight: 500;
 }
 
 .phone {
   color: var(--grey-text);
   font-size: var(--size-heder);
   line-height: var(--height-heder);
+  font-weight: 500;
 }
 
 .current {
